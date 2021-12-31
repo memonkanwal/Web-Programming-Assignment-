@@ -1,0 +1,58 @@
+#heading{
+color:white;
+background:  rgb(96, 105, 236);
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+padding: 8px;
+border-radius: 10px;
+width: 50%;
+
+}
+#TeacherName{
+    color: yellow;
+    background: green;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 8px;
+    border-radius: 10px;
+    width: 50%;
+    
+}
+#data{
+
+    color: white;
+    background: purple;
+    padding: 8px;
+    border-radius: 10px;
+    width: 50%;
+    
+}
+#textBox{
+    width: 30%;
+    color: blue;
+    background-color: white;
+    border-width:  1.5px;
+    border-color: blue;
+    /* size: 20; */
+    border-radius: 9px;
+    padding: 4px;
+    cursor: pointer;
+}
+.buttons{
+    color:yellow;
+    background-color: green;
+    /* size: 5px; */
+    border-color: green;
+    cursor: pointer;
+    border-radius: 13px;
+    padding: 5px;
+    align-content: center;
+    align-items: center;
+    font-size: 9px;
+}
+.buttons:hover{
+    background-color: rgb(228, 215, 228);
+    color: #000;
+}
+.task:hover{
+    background-color: rgb(228, 215, 228);
+    /* color: #000; */
+}
